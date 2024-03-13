@@ -7,7 +7,6 @@ function pedirNombre() {
       alert("El nombre ingresado no es válido. Por favor, ingrese solo letras.");
       nombre = prompt("Ingrese su nombre:");
   }
-
   return nombre;
 }
 function pedirApellido() {
@@ -28,7 +27,6 @@ function pedirEdad() {
   }
   return parseInt(edad);
 }
-
 let nombre = pedirNombre();
 let apellido = pedirApellido();
 let edad = pedirEdad();
