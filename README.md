@@ -4,4 +4,12 @@
 
 -Profesora: Laura Gonzalez Martin
 
--Tutores: Luis Laverde - David Resca - Fabian Romano
+-Mi tutor: David Resca -
+
+-Tutores:  David Resca - Fabian Romano - Luis Laverde
+
+*https://diego-cristian.github.io/53970-JS-Coder1/
+
+##Diego Cristian Vidal
+
+###Fin
